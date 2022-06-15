@@ -17,7 +17,7 @@ second: 'numeric'
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['17608914335'] // Put your number here
+global.owner = ['6281233738677'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -55,21 +55,21 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'Fiktod',
 }
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Ｍａｒｉｎ－ＭＤ
+global.author = `Miku`
 
 
 
 
 
 ig: senpai_chan_gemoy`
-global.wm = 'Ｍａｒｉｎ－ＭＤ'
+global.wm = 'Ｍiku'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
